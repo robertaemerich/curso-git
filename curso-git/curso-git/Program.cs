@@ -8,6 +8,7 @@ namespace curso_git
         {
             Console.WriteLine("Ola Mundo!");
             Console.WriteLine("teste roberta!");
+            Console.WriteLine("Realizando commit!");
         }
     }
 }
