@@ -7,6 +7,7 @@ namespace curso_git
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo!");
+            Console.WriteLine("teste roberta!");
         }
     }
 }
